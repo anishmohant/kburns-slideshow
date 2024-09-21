@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:02,207
+ This is a slide of just one picture as
+
+2
+00:00:02,207 --> 00:00:04,414
+ you can see.
+
+3
+00:00:04,414 --> 00:00:07,000
+ In the following program, we create a list of
+
+4
+00:00:07,000 --> 00:00:09,586
+ length 2, there are two pictures here one after
+
+5
+00:00:09,586 --> 00:00:12,172
+ another
+
+6
+00:00:12,172 --> 00:00:15,105
+ In the last slide, there we have three slide
+
+7
+00:00:15,105 --> 00:00:18,037
+ and a lots of textual information. So here we
+
+8
+00:00:18,037 --> 00:00:20,969
+ can conclude the presentation as which is the final
+
+9
+00:00:20,969 --> 00:00:23,901
+ presentation
+

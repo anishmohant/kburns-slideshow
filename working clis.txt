@@ -1,0 +1,3 @@
+working clis
+
+(Django-env) anishmohan@anishmohan-linux:~/Documents/Workspace/kburns-slideshow$ python kbvs-cli.py out.mp4 -i /home/anishmohan/Documents/Workspace/kburns-slideshow/data/1.jpg /home/anishmohan/Documents/Workspace/kburns-slideshow/data/2.jpg /home/anishmohan/Documents/Workspace/kburns-slideshow/data/3.jpg

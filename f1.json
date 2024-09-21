@@ -1,0 +1,24 @@
+{"slides":
+      [
+            {
+                  "file": "/home/anishmohan/Documents/Workspace/kburns-slideshow/data/1.jpg",
+                  "slide_duration": 5.0,
+                  "slide_duration_min": 1.0,
+                  "fade_duration": 2,
+                  "zoom_direction": "top-left-out",
+                  "zoom_rate": 0.2,
+                  "scale_mode": "crop_center",
+                  "transition": "fade"
+            },
+            {
+                  "file": "/home/anishmohan/Documents/Workspace/kburns-slideshow/data/2.jpg",
+                  "slide_duration": 6.0,
+                  "slide_duration_min": 1.0,
+                  "fade_duration": 2,
+                  "zoom_direction": "top-left-out",
+                  "zoom_rate": 0.2,
+                  "scale_mode": "crop_center",
+                  "transition": "fade"
+            }
+      ]
+}

@@ -1,0 +1,3 @@
+file '/home/anishmohan/Documents/works/intro.mp4'
+file '/home/anishmohan/Documents/Workspace/kburns-slideshow/final_out/OVERLAY_FINAL_MASTER.mp4'
+file '/home/anishmohan/Documents/works/outro.mp4'

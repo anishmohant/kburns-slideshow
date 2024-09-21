@@ -1,0 +1,7 @@
+Pillow
+
+
+
+sudo apt-get install lame
+sudo apt-get install libsox-fmt-mp3
+sudo apt install sox
